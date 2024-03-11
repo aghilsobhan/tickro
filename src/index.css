@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+    font-family: "Vazir", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 200;
+    line-height: 1.5;
+  }
+  table th{
+    font-weight: 200;
+  }
